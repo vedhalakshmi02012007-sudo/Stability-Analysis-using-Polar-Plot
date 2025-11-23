@@ -42,7 +42,7 @@ end
 ```
 ## Output:
 
-<img width="1053" height="985" alt="image" src="https://github.com/user-attachments/assets/24191fc3-ac73-4201-96dd-624d62738f40" />
+<img width="423" height="385" alt="image" src="https://github.com/user-attachments/assets/dc1aa4d1-382d-498b-9f0b-b4f591ea5723" />
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB.<br>
